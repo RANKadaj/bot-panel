@@ -1,6 +1,6 @@
 /**
  *
- * Official Script By Fokus ID
+ * Official Script By MIKU-TEAM
  * 
  * Thanks buat semua yg sudah meng-support saya🙏
  * 
@@ -21,7 +21,7 @@
  * ~ adiwajshing/baileys (Library)
  * ~ Nurutomo
  * ~ Bochilgaming
- * ~ FokusDotId (Creator for this script)
+ * ~ MIKU-TEAM(Creator for this script)
  * ~ kawan-kawan semua yg telah membantu mengembangkan script ini.
  *
  * -------------------------------------------------------------------
